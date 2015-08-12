@@ -1,0 +1,26 @@
+{
+  "name": "git-jobs",
+  "version": "1.0.0",
+  "description": "find programming languages most prevalent in other cities",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micha3lbrown/GitJobs.git"
+  },
+  "author": "Michael Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micha3lbrown/GitJobs/issues"
+  },
+  "homepage": "https://github.com/micha3lbrown/GitJobs#readme",
+  "dependencies": {
+    "foundation": "^4.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
